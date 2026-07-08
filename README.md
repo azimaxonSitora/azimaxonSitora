@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend developer fremvor laravel13
+Backend Developer | fremvor laravel13
 
 
 ## 🌐 Socials:
